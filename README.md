@@ -56,8 +56,14 @@ npm start
 
 <h2>Technologies Used</h2>
 
-React.js
-Spring Boot
-Oracle Database
-Razorpay (Payment Gateway)
+<li>
+  
+<ul>React.js</ul>
+<ul>Spring Boot</ul>
+<ul>Oracle Database</ul>
+<ul>Razorpay (Payment Gateway)</ul>
+
+  
+</li>
+
 
