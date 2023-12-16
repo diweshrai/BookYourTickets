@@ -1,4 +1,6 @@
-BookYourTickets Project
+<h1>BookYourTickets Project</h1>
+
+
 BookYourTickets is a web application inspired by BookMyShow, designed to facilitate the booking of tickets for movies, shows, and various events. The project consists of two main components: a frontend developed using React.js and a backend developed using Spring Boot. The data is stored in an Oracle Database, providing a robust and scalable solution.
 
 Project Structure
