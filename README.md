@@ -34,8 +34,6 @@ To run the project locally, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/your-username/BookYourTickets.git
-
 Navigate to the frontend and backend folders separately and follow the setup instructions provided in their respective README files.
 
 Ensure that the Oracle Database is properly configured and accessible.
